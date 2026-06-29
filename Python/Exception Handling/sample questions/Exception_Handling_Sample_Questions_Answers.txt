@@ -1,0 +1,16 @@
+Exception Handling - Sample Questions and Answers
+
+1.  What will be the output for print(5-‘A’)? Answer: TypeError
+    (unsupported operand type(s) for -: ‘int’ and ‘str’)
+
+2.  Which block is always executed irrespective of the exception?
+    Answer: finally block
+
+3.  Which block is executed when there is no exception? Answer: else
+    block
+
+4.  Which is the base class for all the exception classes? Answer:
+    BaseException
+
+5.  Do we need any module to implement exception handling? Answer:
+    No. Exception handling is built into Python; no module is required.
