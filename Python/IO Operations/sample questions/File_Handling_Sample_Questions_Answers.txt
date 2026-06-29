@@ -1,0 +1,8 @@
+File Handling (I/O Operations) - Sample Questions and Answers
+
+1.  How to open a file in create mode? Answer: open(“filename.txt”, “x”)
+
+2.  Which function reads one line at a time? Answer: readline()
+
+3.  Which module is required to delete files or folders? Answer: os
+    module
