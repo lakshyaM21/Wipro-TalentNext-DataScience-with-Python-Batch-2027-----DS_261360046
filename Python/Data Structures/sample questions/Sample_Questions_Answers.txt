@@ -1,0 +1,20 @@
+Sample Questions and Answers
+
+1.  Does list maintain insertion order? Answer: Yes, Python lists
+    maintain insertion order.
+
+2.  Can we access list items with negative index? Answer: Yes, negative
+    indexing is allowed (e.g., list[-1] gives the last element).
+
+3.  Which function empties the list? Answer: clear()
+
+4.  Which class represents the group of characters? Answer: str (String
+    class)
+
+5.  What is slicing? Answer: Slicing is the process of accessing a
+    portion (substring or sublist) of a sequence using the ‘:’ operator.
+
+6.  Which function toggles the cases? Answer: swapcase()
+
+7.  Does set take duplicate elements? Answer: No, a set does not allow
+    duplicate elements.
