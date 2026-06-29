@@ -1,0 +1,19 @@
+Functions & Modules - Sample Questions and Answers
+
+1.  List few built-in functions. Answer: print(), input(), len(), max(),
+    min(), sum(), type(), abs()
+
+2.  Which keyword marks the start of the function? Answer: def
+
+3.  Which keyword ends the execution of a function? Answer: return
+
+4.  Which allows you to logically organize your Python files? Answer:
+    Modules
+
+5.  How to import a module with alias name? Answer: import module_name
+    as alias_name Example: import math as m
+
+6.  Which command lists the built-in modules? Answer: help(“modules”)
+
+7.  Can we import multiple modules with a single import statement?
+    Answer: Yes. Example: import math, random, os
